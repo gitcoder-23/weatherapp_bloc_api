@@ -8,3 +8,11 @@ https://github.com/romain-girou/weather_app_youtube
 
 // Open Weather Api
 https://openweathermap.org/weather-conditions
+
+
+// Open Weather
+cred:- 
+user:= jwatson7858
+email= jwatson7858@gmail.com
+pwd:= Jwatson7858
+company= Skylark
